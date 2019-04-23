@@ -14,7 +14,7 @@ The source code is written in
 
 ## Running the tests
 
-When running experiments you need to instantiate the model and provide a path to folder where the results will be saved.
+When running experiments you need to instantiate the model and provide a path to a folder where the results will be saved.
 The experiments can be run with the following command:
 
 ```
