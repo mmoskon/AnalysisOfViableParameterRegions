@@ -18,15 +18,12 @@ When running experiments you need to instantiate the model and provide a path to
 The experiments can be run with the following commands:
 
 ```
-	path =  full_path    
-	model = Model(parameter_values, parameter_names, initial_conditions)
-	solver = Solver(model)         
-	solver.run(path)      
+	python solver.py 
 ```
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/zigapusnik/AnalysisOfViableParameterRegions/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/zigapusnik/AnalysisOfViableParameterRegions/blob/master/LICENSE) file for details.
 
 
 
