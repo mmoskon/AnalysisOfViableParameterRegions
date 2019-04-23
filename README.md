@@ -26,7 +26,7 @@ The experiments can be run with the following commands:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/zigapusnik/AnalysisOfViableParameterRegions/blob/master/LICENSE) file for details
 
 
 
